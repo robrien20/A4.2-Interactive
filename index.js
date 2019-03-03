@@ -25,7 +25,7 @@ var park = d3.select("body").append("div")
     .attr("class", "text--info"); //need to reference this class later
 
 // load pre-processed data
-d3.json("311-Flattened-(July-20-2018).json")
+d3.json("some.json")
     .then(ridgelinePlot);
 
 // Creates the ridgeline plot/ oy plot
