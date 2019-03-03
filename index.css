@@ -1,0 +1,89 @@
+svg {
+    display: block;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    margin-top: 30px;
+}
+
+text {
+    font: 1em 'Roboto', sans-serif;
+}
+
+.axis .domain {
+    display: none;
+}
+
+.axis--x text, .text--title{
+    fill: #999;
+}
+
+.text--title {
+    font-size: 1.2em;
+}
+
+.axis--x line {
+    stroke: #aaa;
+}
+
+.axis--year .tick line {
+    display: none;
+}
+
+.axis--year text {
+    font-size: 1.1em;
+    fill: #777;
+}
+
+.axis--year .tick:nth-child(odd) text {
+    fill: #222;
+}
+
+.line {
+    fill: none;
+    stroke: whitesmoke;
+    stroke-width: 1.5px;
+}
+
+.area {
+    fill: #448cab;
+    opacity: 0.9;
+}
+
+.year:nth-child(odd) .area {
+    fill: #5ca3c1;
+}
+
+.hover {
+    fill: #ffeb89;
+    opacity: 0.9;
+}
+
+.parkinfo {
+  background-color: whitesmoke;
+  width: 700px;
+  height: 100px;
+  margin: auto;
+}
+
+.text--info {
+  padding: 50px;
+  color: black;
+}
+
+.text--blurb {
+  padding: 70px;
+  color: grey;
+  font-size: 0.7em;
+}
+
+.text--month {
+  margin-left: 50px;
+  color: grey;
+}
+
+.text--extra {
+  padding-left: 50px;
+  padding-right: 0px;
+  font-size: 1.1em;
+  color: black;
+}
