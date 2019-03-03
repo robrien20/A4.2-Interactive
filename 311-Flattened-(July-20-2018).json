@@ -1,535 +1,482 @@
 {
     "name": "data",
     "children": [
-        {
-        "Name": "Glacier",
-        "children": [
-           {
-              "name": "Jan",
-              "value": "14690"
-           },
-           {
-              "name": "Feb",
-              "value": "13802"
-           },
-           {
-              "name": "Mar",
-              "value": "19336"
-           },
-           {
-              "name": "Apr",
-              "value": "38323"
-           },
-           {
-              "name": "May",
-              "value": "177787"
-           },
-           {
-              "name": "Jun",
-              "value": "620962"
-           },
-           {
-              "name": "Jul",
-              "value": "1009665"
-           },
-           {
-              "name": "Aug",
-              "value": "908479"
-           },
-           {
-              "name": "Sep",
-              "value": "389137"
-           },
-           {
-              "name": "Oct",
-              "value": "84469"
-           },
-           {
-              "name": "Nov",
-              "value": "15594"
-           },
-           {
-              "name": "Dec",
-              "value": "13268"
-           }
-        ]
-     },
-     {
-        "Name": "Glacier",
-        "children": [
-           {
-              "name": "Jan",
-              "value": "14690"
-           },
-           {
-              "name": "Feb",
-              "value": "13802"
-           },
-           {
-              "name": "Mar",
-              "value": "19336"
-           },
-           {
-              "name": "Apr",
-              "value": "38323"
-           },
-           {
-              "name": "May",
-              "value": "177787"
-           },
-           {
-              "name": "Jun",
-              "value": "620962"
-           },
-           {
-              "name": "Jul",
-              "value": "1009665"
-           },
-           {
-              "name": "Aug",
-              "value": "908479"
-           },
-           {
-              "name": "Sep",
-              "value": "389137"
-           },
-           {
-              "name": "Oct",
-              "value": "84469"
-           },
-           {
-              "name": "Nov",
-              "value": "15594"
-           },
-           {
-              "name": "Dec",
-              "value": "13268"
-           }
-        ]
-     },
-     {
-        "Name": "Glacier",
-        "children": [
-           {
-              "name": "Jan",
-              "value": "14690"
-           },
-           {
-              "name": "Feb",
-              "value": "13802"
-           },
-           {
-              "name": "Mar",
-              "value": "19336"
-           },
-           {
-              "name": "Apr",
-              "value": "38323"
-           },
-           {
-              "name": "May",
-              "value": "177787"
-           },
-           {
-              "name": "Jun",
-              "value": "620962"
-           },
-           {
-              "name": "Jul",
-              "value": "1009665"
-           },
-           {
-              "name": "Aug",
-              "value": "908479"
-           },
-           {
-              "name": "Sep",
-              "value": "389137"
-           },
-           {
-              "name": "Oct",
-              "value": "84469"
-           },
-           {
-              "name": "Nov",
-              "value": "15594"
-           },
-           {
-              "name": "Dec",
-              "value": "13268"
-           }
-        ]
-     },
-     {
-        "Name": "Glacier",
-        "children": [
-           {
-              "name": "Jan",
-              "value": "14690"
-           },
-           {
-              "name": "Feb",
-              "value": "13802"
-           },
-           {
-              "name": "Mar",
-              "value": "19336"
-           },
-           {
-              "name": "Apr",
-              "value": "38323"
-           },
-           {
-              "name": "May",
-              "value": "177787"
-           },
-           {
-              "name": "Jun",
-              "value": "620962"
-           },
-           {
-              "name": "Jul",
-              "value": "1009665"
-           },
-           {
-              "name": "Aug",
-              "value": "908479"
-           },
-           {
-              "name": "Sep",
-              "value": "389137"
-           },
-           {
-              "name": "Oct",
-              "value": "84469"
-           },
-           {
-              "name": "Nov",
-              "value": "15594"
-           },
-           {
-              "name": "Dec",
-              "value": "13268"
-           }
-        ]
-     },
-     {
-        "Name": "Glacier",
-        "children": [
-           {
-              "name": "Jan",
-              "value": "14690"
-           },
-           {
-              "name": "Feb",
-              "value": "13802"
-           },
-           {
-              "name": "Mar",
-              "value": "19336"
-           },
-           {
-              "name": "Apr",
-              "value": "38323"
-           },
-           {
-              "name": "May",
-              "value": "177787"
-           },
-           {
-              "name": "Jun",
-              "value": "620962"
-           },
-           {
-              "name": "Jul",
-              "value": "1009665"
-           },
-           {
-              "name": "Aug",
-              "value": "908479"
-           },
-           {
-              "name": "Sep",
-              "value": "389137"
-           },
-           {
-              "name": "Oct",
-              "value": "84469"
-           },
-           {
-              "name": "Nov",
-              "value": "15594"
-           },
-           {
-              "name": "Dec",
-              "value": "13268"
-           }
-        ]
-     },
-     {
-        "Name": "Glacier",
-        "children": [
-           {
-              "name": "Jan",
-              "value": "14690"
-           },
-           {
-              "name": "Feb",
-              "value": "13802"
-           },
-           {
-              "name": "Mar",
-              "value": "19336"
-           },
-           {
-              "name": "Apr",
-              "value": "38323"
-           },
-           {
-              "name": "May",
-              "value": "177787"
-           },
-           {
-              "name": "Jun",
-              "value": "620962"
-           },
-           {
-              "name": "Jul",
-              "value": "1009665"
-           },
-           {
-              "name": "Aug",
-              "value": "908479"
-           },
-           {
-              "name": "Sep",
-              "value": "389137"
-           },
-           {
-              "name": "Oct",
-              "value": "84469"
-           },
-           {
-              "name": "Nov",
-              "value": "15594"
-           },
-           {
-              "name": "Dec",
-              "value": "13268"
-           }
-        ]
-     },
-     {
-        "Name": "Glacier",
-        "children": [
-           {
-              "name": "Jan",
-              "value": "14690"
-           },
-           {
-              "name": "Feb",
-              "value": "13802"
-           },
-           {
-              "name": "Mar",
-              "value": "19336"
-           },
-           {
-              "name": "Apr",
-              "value": "38323"
-           },
-           {
-              "name": "May",
-              "value": "177787"
-           },
-           {
-              "name": "Jun",
-              "value": "620962"
-           },
-           {
-              "name": "Jul",
-              "value": "1009665"
-           },
-           {
-              "name": "Aug",
-              "value": "908479"
-           },
-           {
-              "name": "Sep",
-              "value": "389137"
-           },
-           {
-              "name": "Oct",
-              "value": "84469"
-           },
-           {
-              "name": "Nov",
-              "value": "15594"
-           },
-           {
-              "name": "Dec",
-              "value": "13268"
-           }
-        ]
-     },
-     {
-        "Name": "Glacier",
-        "children": [
-           {
-              "name": "Jan",
-              "value": "14690"
-           },
-           {
-              "name": "Feb",
-              "value": "13802"
-           },
-           {
-              "name": "Mar",
-              "value": "19336"
-           },
-           {
-              "name": "Apr",
-              "value": "38323"
-           },
-           {
-              "name": "May",
-              "value": "177787"
-           },
-           {
-              "name": "Jun",
-              "value": "620962"
-           },
-           {
-              "name": "Jul",
-              "value": "1009665"
-           },
-           {
-              "name": "Aug",
-              "value": "908479"
-           },
-           {
-              "name": "Sep",
-              "value": "389137"
-           },
-           {
-              "name": "Oct",
-              "value": "84469"
-           },
-           {
-              "name": "Nov",
-              "value": "15594"
-           },
-           {
-              "name": "Dec",
-              "value": "13268"
-           }
-        ]
-     },
-     {
-        "Name": "Glacier",
-        "children": [
-           {
-              "name": "Jan",
-              "value": "14690"
-           },
-           {
-              "name": "Feb",
-              "value": "13802"
-           },
-           {
-              "name": "Mar",
-              "value": "19336"
-           },
-           {
-              "name": "Apr",
-              "value": "38323"
-           },
-           {
-              "name": "May",
-              "value": "177787"
-           },
-           {
-              "name": "Jun",
-              "value": "620962"
-           },
-           {
-              "name": "Jul",
-              "value": "1009665"
-           },
-           {
-              "name": "Aug",
-              "value": "908479"
-           },
-           {
-              "name": "Sep",
-              "value": "389137"
-           },
-           {
-              "name": "Oct",
-              "value": "84469"
-           },
-           {
-              "name": "Nov",
-              "value": "15594"
-           },
-           {
-              "name": "Dec",
-              "value": "13268"
-           }
-        ]
-     },
-     {
-        "Name": "Glacier",
-        "children": [
-           {
-              "name": "Jan",
-              "value": "14690"
-           },
-           {
-              "name": "Feb",
-              "value": "13802"
-           },
-           {
-              "name": "Mar",
-              "value": "19336"
-           },
-           {
-              "name": "Apr",
-              "value": "38323"
-           },
-           {
-              "name": "May",
-              "value": "177787"
-           },
-           {
-              "name": "Jun",
-              "value": "620962"
-           },
-           {
-              "name": "Jul",
-              "value": "1009665"
-           },
-           {
-              "name": "Aug",
-              "value": "908479"
-           },
-           {
-              "name": "Sep",
-              "value": "389137"
-           },
-           {
-              "name": "Oct",
-              "value": "84469"
-           },
-           {
-              "name": "Nov",
-              "value": "15594"
-           },
-           {
-              "name": "Dec",
-              "value": "13268"
-           }
-        ]
-     }
-  ]
+   {
+      "Name": "Glacier",
+      "children": [
+         {
+            "name": "Jan",
+            "value": "14690"
+         },
+         {
+            "name": "Feb",
+            "value": "13802"
+         },
+         {
+            "name": "Mar",
+            "value": "19336"
+         },
+         {
+            "name": "Apr",
+            "value": "38323"
+         },
+         {
+            "name": "May",
+            "value": "177787"
+         },
+         {
+            "name": "Jun",
+            "value": "620962"
+         },
+         {
+            "name": "Jul",
+            "value": "1009665"
+         },
+         {
+            "name": "Aug",
+            "value": "908479"
+         },
+         {
+            "name": "Sep",
+            "value": "389137"
+         },
+         {
+            "name": "Oct",
+            "value": "84469"
+         },
+         {
+            "name": "Nov",
+            "value": "15594"
+         },
+         {
+            "name": "Dec",
+            "value": "13268"
+         }
+      ]
+   },
+   {
+      "Name": "Glacier",
+      "children": [
+         {
+            "name": "Jan",
+            "value": "14690"
+         },
+         {
+            "name": "Feb",
+            "value": "13802"
+         },
+         {
+            "name": "Mar",
+            "value": "19336"
+         },
+         {
+            "name": "Apr",
+            "value": "38323"
+         },
+         {
+            "name": "May",
+            "value": "177787"
+         },
+         {
+            "name": "Jun",
+            "value": "620962"
+         },
+         {
+            "name": "Jul",
+            "value": "1009665"
+         },
+         {
+            "name": "Aug",
+            "value": "908479"
+         },
+         {
+            "name": "Sep",
+            "value": "389137"
+         },
+         {
+            "name": "Oct",
+            "value": "84469"
+         },
+         {
+            "name": "Nov",
+            "value": "15594"
+         },
+         {
+            "name": "Dec",
+            "value": "13268"
+         }
+      ]
+   },
+   {
+      "Name": "Glacier",
+      "children": [
+         {
+            "name": "Jan",
+            "value": "14690"
+         },
+         {
+            "name": "Feb",
+            "value": "13802"
+         },
+         {
+            "name": "Mar",
+            "value": "19336"
+         },
+         {
+            "name": "Apr",
+            "value": "38323"
+         },
+         {
+            "name": "May",
+            "value": "177787"
+         },
+         {
+            "name": "Jun",
+            "value": "620962"
+         },
+         {
+            "name": "Jul",
+            "value": "1009665"
+         },
+         {
+            "name": "Aug",
+            "value": "908479"
+         },
+         {
+            "name": "Sep",
+            "value": "389137"
+         },
+         {
+            "name": "Oct",
+            "value": "84469"
+         },
+         {
+            "name": "Nov",
+            "value": "15594"
+         },
+         {
+            "name": "Dec",
+            "value": "13268"
+         }
+      ]
+   },
+   {
+      "Name": "Glacier",
+      "children": [
+         {
+            "name": "Jan",
+            "value": "14690"
+         },
+         {
+            "name": "Feb",
+            "value": "13802"
+         },
+         {
+            "name": "Mar",
+            "value": "19336"
+         },
+         {
+            "name": "Apr",
+            "value": "38323"
+         },
+         {
+            "name": "May",
+            "value": "177787"
+         },
+         {
+            "name": "Jun",
+            "value": "620962"
+         },
+         {
+            "name": "Jul",
+            "value": "1009665"
+         },
+         {
+            "name": "Aug",
+            "value": "908479"
+         },
+         {
+            "name": "Sep",
+            "value": "389137"
+         },
+         {
+            "name": "Oct",
+            "value": "84469"
+         },
+         {
+            "name": "Nov",
+            "value": "15594"
+         },
+         {
+            "name": "Dec",
+            "value": "13268"
+         }
+      ]
+   },
+   {
+      "Name": "Glacier",
+      "children": [
+         {
+            "name": "Jan",
+            "value": "14690"
+         },
+         {
+            "name": "Feb",
+            "value": "13802"
+         },
+         {
+            "name": "Mar",
+            "value": "19336"
+         },
+         {
+            "name": "Apr",
+            "value": "38323"
+         },
+         {
+            "name": "May",
+            "value": "177787"
+         },
+         {
+            "name": "Jun",
+            "value": "620962"
+         },
+         {
+            "name": "Jul",
+            "value": "1009665"
+         },
+         {
+            "name": "Aug",
+            "value": "908479"
+         },
+         {
+            "name": "Sep",
+            "value": "389137"
+         },
+         {
+            "name": "Oct",
+            "value": "84469"
+         },
+         {
+            "name": "Nov",
+            "value": "15594"
+         },
+         {
+            "name": "Dec",
+            "value": "13268"
+         }
+      ]
+   },
+   {
+      "Name": "Glacier",
+      "children": [
+         {
+            "name": "Jan",
+            "value": "14690"
+         },
+         {
+            "name": "Feb",
+            "value": "13802"
+         },
+         {
+            "name": "Mar",
+            "value": "19336"
+         },
+         {
+            "name": "Apr",
+            "value": "38323"
+         },
+         {
+            "name": "May",
+            "value": "177787"
+         },
+         {
+            "name": "Jun",
+            "value": "620962"
+         },
+         {
+            "name": "Jul",
+            "value": "1009665"
+         },
+         {
+            "name": "Aug",
+            "value": "908479"
+         },
+         {
+            "name": "Sep",
+            "value": "389137"
+         },
+         {
+            "name": "Oct",
+            "value": "84469"
+         },
+         {
+            "name": "Nov",
+            "value": "15594"
+         },
+         {
+            "name": "Dec",
+            "value": "13268"
+         }
+      ]
+   },
+   {
+      "Name": "Glacier",
+      "children": [
+         {
+            "name": "Jan",
+            "value": "14690"
+         },
+         {
+            "name": "Feb",
+            "value": "13802"
+         },
+         {
+            "name": "Mar",
+            "value": "19336"
+         },
+         {
+            "name": "Apr",
+            "value": "38323"
+         },
+         {
+            "name": "May",
+            "value": "177787"
+         },
+         {
+            "name": "Jun",
+            "value": "620962"
+         },
+         {
+            "name": "Jul",
+            "value": "1009665"
+         },
+         {
+            "name": "Aug",
+            "value": "908479"
+         },
+         {
+            "name": "Sep",
+            "value": "389137"
+         },
+         {
+            "name": "Oct",
+            "value": "84469"
+         },
+         {
+            "name": "Nov",
+            "value": "15594"
+         },
+         {
+            "name": "Dec",
+            "value": "13268"
+         }
+      ]
+   },
+   {
+      "Name": "Glacier",
+      "children": [
+         {
+            "name": "Jan",
+            "value": "14690"
+         },
+         {
+            "name": "Feb",
+            "value": "13802"
+         },
+         {
+            "name": "Mar",
+            "value": "19336"
+         },
+         {
+            "name": "Apr",
+            "value": "38323"
+         },
+         {
+            "name": "May",
+            "value": "177787"
+         },
+         {
+            "name": "Jun",
+            "value": "620962"
+         },
+         {
+            "name": "Jul",
+            "value": "1009665"
+         },
+         {
+            "name": "Aug",
+            "value": "908479"
+         },
+         {
+            "name": "Sep",
+            "value": "389137"
+         },
+         {
+            "name": "Oct",
+            "value": "84469"
+         },
+         {
+            "name": "Nov",
+            "value": "15594"
+         },
+         {
+            "name": "Dec",
+            "value": "13268"
+         }
+      ]
+   },
+   {
+      "Name": "Glacier",
+      "children": [
+         {
+            "name": "Jan",
+            "value": "14690"
+         },
+         {
+            "name": "Feb",
+            "value": "13802"
+         },
+         {
+            "name": "Mar",
+            "value": "19336"
+         },
+         {
+            "name": "Apr",
+            "value": "38323"
+         },
+         {
+            "name": "May",
+            "value": "177787"
+         },
+         {
+            "name": "Jun",
+            "value": "620962"
+         },
+         {
+            "name": "Jul",
+            "value": "1009665"
+         },
+         {
+            "name": "Aug",
+            "value": "908479"
+         },
+         {
+            "name": "Sep",
+            "value": "389137"
+         },
+         {
+            "name": "Oct",
+            "value": "84469"
+         },
+         {
+            "name": "Nov",
+            "value": "15594"
+         },
+         {
+            "name": "Dec",
+            "value": "13268"
+         }
+      ]
+   }
+]
 }
