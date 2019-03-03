@@ -3,7 +3,7 @@ var info = [
   {'park': 'Glacier', 'acres': 1013322, 'peak visitation': 'July', 'fun fact': 'Glacier National Park is also known as the "Crown of the Continent.""'},
   {'park': 'Yellowstone', 'acres': 2200000, 'peak visitation': 'July', 'fun fact': 'Yellowstone is thought to be the first national park in the world.'},
   {'park': 'Yosemite', 'acres': 761266, 'peak visitation': 'July', 'fun fact': 'During mid-late February, the waterfall Horsetail Fall appears to glow during sunsets.'},
-  {'park': 'Zion', 'acres': 147551, 'peak visitation': 'July', 'fun fact': "Visitors can choose to explore Zion's The Subway, which involves rapelling and swimming."},
+  //{'park': 'Zion', 'acres': 147551, 'peak visitation': 'July', 'fun fact': "Visitors can choose to explore Zion's The Subway, which involves rapelling and swimming."},
   {'park': 'Olympic', 'acres': 147551, 'peak visitation': 'July', 'fun fact': "Visitors can choose to explore Zion's The Subway, which involves rapelling and swimming."}
 ];
 
