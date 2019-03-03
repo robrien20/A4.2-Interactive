@@ -1,9 +1,9 @@
 var info = [
   {'park': 'Grand Canyon', 'acres': 1217403, 'peak visitation': 'July', 'fun fact': 'The Grand Canyon is ~70 million years old, carved by the Colorado River.'},
   {'park': 'Glacier', 'acres': 1013322, 'peak visitation': 'July', 'fun fact': 'Glacier National Park is also known as the "Crown of the Continent.""'},
-  {'park': 'Olympic', 'acres': 147551, 'peak visitation': 'July', 'fun fact': "Visitors can choose to explore Zion's The Subway, which involves rapelling and swimming."},
   {'park': 'Yellowstone', 'acres': 2200000, 'peak visitation': 'July', 'fun fact': 'Yellowstone is thought to be the first national park in the world.'},
-  {'park': 'Yosemite', 'acres': 761266, 'peak visitation': 'July', 'fun fact': 'During mid-late February, the waterfall Horsetail Fall appears to glow during sunsets.'}
+  {'park': 'Yosemite', 'acres': 761266, 'peak visitation': 'July', 'fun fact': 'During mid-late February, the waterfall Horsetail Fall appears to glow during sunsets.'},
+  {'park': 'Zion', 'acres': 147551, 'peak visitation': 'July', 'fun fact': "Visitors can choose to explore Zion's The Subway, which involves rapelling and swimming."}
 ];
 
 const log = console.log;
@@ -63,7 +63,7 @@ function ridgelinePlot(responses) {
     // Further learning required to avoid this
     // https://beta.observablehq.com/@mbostock/d3-ridgeline-plot
     // https://beta.observablehq.com/@pstuffa/nyc-building-permits-api-neighborhood-trends
-    const order = ["Yellowstone", "Yosemite", "Grand Canyon", "Glacier", "Olympic"].map(d => data.filter(p => p.name == d)[0]);
+    const order = ["Yellowstone", "Yosemite", "Zion", "Grand Canyon", "Glacier"].map(d => data.filter(p => p.name == d)[0]);
 
     // year groups
     const gYear= svg.append('g').attr("class", "years")
