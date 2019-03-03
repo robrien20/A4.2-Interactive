@@ -64,7 +64,7 @@ function ridgelinePlot(responses) {
     // Further learning required to avoid this
     // https://beta.observablehq.com/@mbostock/d3-ridgeline-plot
     // https://beta.observablehq.com/@pstuffa/nyc-building-permits-api-neighborhood-trends
-    const order = ["Yellowstone", "Yosemite", "Zion", "Grand Canyon", "Glacier", "Olympic"].map(d => data.filter(p => p.name == d)[0]);
+    const order = ["Yellowstone", "Yosemite", "Grand Canyon", "Glacier", "Olympic"].map(d => data.filter(p => p.name == d)[0]);
 
     // year groups
     const gYear= svg.append('g').attr("class", "years")
